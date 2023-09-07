@@ -1,0 +1,6 @@
+nstep	icfl	iread	iwrite	itout	iplot	ianimation
+10000	1	0	1	1	1	0
+
+cflc	cflv	dtcfl	dtfix	tout
+0.2d0	0.2d0	2.0d-3	5.0d-2	5.0d-1
+

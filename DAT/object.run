@@ -1,0 +1,14 @@
+sk0	sk1	sk2	sk3
+isphr	ea	eb	ec	xsc0	ysc0	zsc0	phase
+pitch0	yaw0	roll0	phasep	phasey	phaser
+
+object #1
+0.0d0	0.0d0	5.0d2	0.0d0
+1	0.5d0	0.5d0	0.5d0	0.0d0	0.0d0	14.0d0	0.0d0
+0.0d0	0.0d0	0.0d0	0.0d0	0.0d0	0.0d0
+
+object #2
+0.0d0	0.0d0	1.0d3	0.0d0
+0	0.5d0	0.5d0	0.2d0	0.0d0	0.0d0	0.0d0	0.0d0
+0.0d0	0.0d0	0.0d0	0.0d0	0.0d0	0.0d0
+
